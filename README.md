@@ -4,4 +4,7 @@ ISCA now invites bids for hosting INTERSPEECH 2024. INTERSPEECH conferences incl
 
 
 
+
 https://isca-speech.org/iscaweb/index.php/scoot/linguistics for all pdfs 
+
+https://paperswithcode.com/
